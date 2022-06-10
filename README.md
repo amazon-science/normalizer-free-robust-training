@@ -1,4 +1,4 @@
-## My Project
+## Removing Batch Normalization Boosts Adversarial Training
 
 TODO: Fill this README out!
 
