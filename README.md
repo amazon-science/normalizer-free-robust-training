@@ -1,6 +1,6 @@
 # Removing Batch Normalization Boosts Adversarial Training
 
-## Overview
+This is the official implementation of the [Removing Batch Normalization Boosts Adversarial Training](https://proceedings.mlr.press/v162/wang22ap/wang22ap.pdf) paper at ICML'22.
 
 Previous adversarial training (AT) methods improve model robustness but significantly decrease model accuracy on clean samples. Our Normalizer-Free Adversarial Training (NoFrost) achieves high adversarial robustness almost without sacrificing clean accuracy, by removing batch normalization (BN) from AT. The intuition is that BN struggles to handle the mixture distribution of clean and adversarial images as observed by previous works.
 
